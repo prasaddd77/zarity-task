@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "645910071187",
+    "project_id": "zarity-d4249",
+    "storage_bucket": "zarity-d4249.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645910071187:android:7178d51385c5822d658a66",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhGkqAiyWROZejlCGesuYUaBs-KCgTl-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645910071187:android:919655f064b838db658a66",
+        "android_client_info": {
+          "package_name": "com.example.zarity"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhGkqAiyWROZejlCGesuYUaBs-KCgTl-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
